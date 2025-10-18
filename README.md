@@ -139,6 +139,9 @@ A modern and responsive e-commerce web application built with Django and Bootstr
 
 ###
 
-<p align="left"></p>
+## 📫 Contact Me
+
+📧 Email: [moatazbanmansour@gmail.com](mailto:moatazbanmansour@gmail.com)
+
 
 ###
