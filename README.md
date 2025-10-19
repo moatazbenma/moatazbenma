@@ -24,7 +24,7 @@
 
 ###
 
-<p align="left">🎓 Informatics Engineering student & passionate Full Stack Developer 💡 Building tools that combine AI, automation, and web development 🌍 Based in Indonesia | Open to internships & collaborations</p>
+<p align="left">🎓 Informatics Engineering student & passionate Full Stack Developer 💡 Building tools that combine AI, automation, and web development 🌍 From Morocco Studying in indonesia | Open to internships & collaborations</p>
 
 ###
 
