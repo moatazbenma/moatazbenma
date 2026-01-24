@@ -82,7 +82,7 @@
 
 ### 🧠 [StudyHub](https://github.com/moatazbenma/studyhub-full)
 
-* Live : https://studyhub-full-1.onrender.com/
+* Live : https://studyhub-full.vercel.app/
 
 An **English learning platform** built with **React + Django + PostgreSQL**
 ✨ Features:
