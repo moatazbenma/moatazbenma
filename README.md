@@ -1,151 +1,160 @@
-
-
-###
-
 <div align="center">
-  <a href="https://www.linkedin.com/in/el-mouataz-benmanssour/"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" /></a> 
-  <a href="https://www.instagram.com/benms_mtz?igsh=MXdyYm9pNTI0YnlzbA%3D%3D&utm_source=qr"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  /></a>
-  <a href="mailto:moatazbanmansour@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
-</div></a>
-
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=moatazbenma.moatazbenma&"  />
+  <a href="https://www.linkedin.com/in/el-mouataz-benmanssour/">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&style=for-the-badge" height="25"/>
+  </a>
+  <a href="https://www.instagram.com/benms_mtz">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&color=E4405F&style=for-the-badge" height="25"/>
+  </a>
+  <a href="mailto:moatazbanmansour@gmail.com">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&color=D14836&style=for-the-badge" height="25"/>
+  </a>
 </div>
 
-###
-
-<h1 align="center">Hi, I'm El Mouataz Benmanssour 👋</h1>
-
-###
-
-<h3 align="left">👩‍💻  About Me</h3>
-
-###
-
-<p align="left">🎓 Informatics Engineering student & passionate Full Stack Developer 💡 Building tools that combine AI, automation, and web development 🌍 From Morocco Studying in indonesia | Open to internships & collaborations</p>
-
-###
-
-<h3 align="left">🛠 Language and tools</h3>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="fastapi logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo" />
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/laravel/laravel-line.svg" height="40" alt="laravel logo" />
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=moatazbenma.moatazbenma"/>
 </div>
 
-###
+<h1 align="center">Hi 👋, I'm El Mouataz Benmanssour</h1>
 
-<h3 align="left">🚀 Featured Projects</h3>
+<h3 align="center">Full Stack Developer | AI & Automation Enthusiast</h3>
 
-### 🧠 [StudyHub](https://github.com/moatazbenma/studyhub-full)
+---
 
-* Live : https://studyhub-full.vercel.app/
+## 👨‍💻 About Me
 
-An **English learning platform** built with **React + Django + PostgreSQL**
+🎓 Informatics Engineering Student  
+🌍 Moroccan 🇲🇦 studying in Indonesia 🇮🇩  
+💡 Passionate about building **AI-powered web applications**  
+🚀 Focused on **scalable backend systems + modern frontend UX**  
+🤝 Open to internships & collaborations  
+
+---
+
+## 🧰 Tech Stack
+
+### 🎨 Frontend
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/vitejs/vitejs-original.svg" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/tailwindcss/tailwindcss-original.svg" height="40"/>
+</div>
+
+- React 19 + TypeScript  
+- Vite (fast bundling ⚡)  
+- Tailwind CSS v4 (custom eco-theme 🌱)  
+- React Router  
+- React-Leaflet (maps)  
+- Axios + JWT authentication  
+
+---
+
+### ⚙️ Backend
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40"/>
+</div>
+
+- Django 4.2 LTS + Django REST Framework  
+- Python 3.11  
+- PostgreSQL (prod) / SQLite (dev)  
+- SimpleJWT authentication  
+- Gunicorn (WSGI server)  
+
+---
+
+### 🧠 Infrastructure & Services
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40"/>
+</div>
+
+- Docker (multi-service architecture 🐳)  
+- Nginx (reverse proxy)  
+- Redis (caching + rate limiting)  
+- Celery + Celery Beat (async tasks & scheduling)  
+- Cloudinary (image storage & CDN)  
+
+---
+
+## 🚀 Featured Projects
+
+### 🌱 Mangrove Guardian AI  
+AI-powered platform for reporting mangrove damage and coordinating restoration.
+
+🔗 Live: https://mangrove-guardian-ai.onrender.com  
+💻 Code: https://github.com/moatazbenma/mangrove-guardian-ai  
+
+---
+
+### 🧠 StudyHub  
+AI-powered English learning platform  
+
 ✨ Features:
+- AI chat with grammar correction  
+- Flashcards & task management  
+- Class booking system  
+- Dashboard analytics  
 
-* AI Chat with smart grammar correction (Google Studio + LanguageTool API)
-* Flashcards, To-Do list, and study materials
-* Class booking system and dashboard
-* Hosted database on **Neon.tech**
-
----
-
-### 💰 [Fundraising App](https://github.com/moatazbenma/fundraising_fullstack)
-
-A full-stack web portal for managing fundraising campaigns.
-🧩 Built with **Django + HTML/CSS/JS**
-🌈 Includes progress bars, reward tiers, thank-you animations, and mobile responsive design.
+🔗 Live: https://studyhub-full.vercel.app/  
+💻 Code: https://github.com/moatazbenma/studyhub-full  
 
 ---
 
-### 🤖 [WhatsApp Drive Assistant (n8n)](https://github.com/moatazbenma/Internship_task)
+### 💰 Fundraising Platform  
+Full-stack donation system with interactive UI  
 
-An **automation workflow** integrating Twilio WhatsApp, Google Drive, and GPT.
-⚙️ Features:
+✨ Features:
+- Progress tracking  
+- Reward tiers  
+- Animated UX  
+- Mobile-first design  
 
-* LIST, MOVE, DELETE, and SUMMARY commands
-* Google Drive OAuth2
-* Safety logs and Docker deployment
-
-###  [Django E-commerce Store](https://github.com/moatazbenma/django-commerce)
-
-- Live : https://django-ecommerce-xjz8.onrender.com/
-
-A modern and responsive e-commerce web application built with Django and Bootstrap. This project allows users to browse products, view details, manage a shopping cart, and securely log in or register.
-
-⚙️ Features:
-
-* 🖼️ Home page with carousel banner and product grid
-* 🔍 Product detail page with size/color selection
-* 🛍️ Add to cart, remove, and adjust quantity
-* 👥 User authentication (signup, login, logout)
-
+💻 Code: https://github.com/moatazbenma/fundraising_fullstack  
 
 ---
 
-###
+### 🤖 WhatsApp Drive Assistant  
+Automation system with n8n + AI  
 
-<p align="left"></p>
+✨ Features:
+- WhatsApp commands (LIST, MOVE, DELETE, SUMMARY)  
+- Google Drive integration  
+- AI-powered summaries  
+- Docker deployment  
 
-###
+💻 Code: https://github.com/moatazbenma/Internship_task  
 
-<h3 align="left">🔥   My Stats :</h3>
+---
 
-###
+### 🛒 Django E-commerce Store  
+
+✨ Features:
+- Product browsing & filtering  
+- Cart system  
+- Authentication  
+- Responsive UI  
+
+🔗 Live: https://django-ecommerce-xjz8.onrender.com/  
+💻 Code: https://github.com/moatazbenma/django-commerce  
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=moatazbenma&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=moatazbenma&theme=dark" height="220"/>
 </div>
 
-###
+---
 
 ## 📫 Contact Me
 
-📧 Email: [moatazbanmansour@gmail.com](mailto:moatazbanmansour@gmail.com)
+📧 Email: moatazbanmansour@gmail.com  
+💼 LinkedIn: linkedin.com/in/el-mouataz-benmanssour  
 
+---
 
-###
+⭐ *Always building. Always learning.*
