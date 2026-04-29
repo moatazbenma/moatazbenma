@@ -145,7 +145,7 @@ Automation system with n8n + AI
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=moatazbenma&theme=dark" height="220"/>
+  <img src="https://streak-stats.demolab.com?user=moatazbenma&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
 ---
