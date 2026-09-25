@@ -94,6 +94,19 @@ AI-powered platform for reporting mangrove damage and coordinating restoration e
 
 ---
 
+### 🧠 AI Career Memory Assistant
+AI-powered career assistant that analyzes GitHub repositories and connects them with target job descriptions to help developers improve their professional profiles.
+
+- Generates STAR-format resume bullet points from real project work
+- Creates tailored interview questions and project summaries
+- Uses Django REST Framework with JWT authentication and GitHub OAuth
+- Supports asynchronous repository analysis with Celery and Redis
+- Includes a React, TypeScript, and Vite frontend
+
+💻 Code: https://github.com/moatazbenma/AI-Career-Memory-Assistant
+
+---
+
 ### 🧠 StudyHub
 AI-powered English learning platform built for productivity, practice, and guided learning.
 
