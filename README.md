@@ -1,160 +1,172 @@
 <div align="center">
   <a href="https://www.linkedin.com/in/el-mouataz-benmanssour/">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&style=for-the-badge" height="25"/>
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&style=for-the-badge" height="25" alt="LinkedIn"/>
   </a>
   <a href="https://www.instagram.com/benms_mtz">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&color=E4405F&style=for-the-badge" height="25"/>
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&color=E4405F&style=for-the-badge" height="25" alt="Instagram"/>
   </a>
   <a href="mailto:moatazbanmansour@gmail.com">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&color=D14836&style=for-the-badge" height="25"/>
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&color=D14836&style=for-the-badge" height="25" alt="Gmail"/>
   </a>
 </div>
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=moatazbenma.moatazbenma"/>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=moatazbenma.moatazbenma" alt="visitors" />
 </div>
 
 <h1 align="center">Hi 👋, I'm El Mouataz Benmanssour</h1>
-
-<h3 align="center">Full Stack Developer | AI & Automation Enthusiast</h3>
+<h3 align="center">Full-Stack Developer | AI & Automation Enthusiast | Informatics Engineering Student</h3>
 
 ---
 
 ## 👨‍💻 About Me
 
-🎓 Informatics Engineering Student  
-🌍 Moroccan 🇲🇦 studying in Indonesia 🇮🇩  
-💡 Passionate about building **AI-powered web applications**  
-🚀 Focused on **scalable backend systems + modern frontend UX**  
-🤝 Open to internships & collaborations  
+I’m a Moroccan developer currently studying Informatics Engineering in Indonesia, with a strong interest in building products that combine modern web experiences, backend systems, and AI-driven automation.
+
+My work focuses on turning ideas into scalable, user-friendly solutions — from full-stack applications and APIs to AI-powered workflows, deployment, and cloud-ready architecture.
+
+- 🌍 Based in Indonesia, originally from Morocco 🇲🇦
+- 🎓 Informatics Engineering student
+- 💡 Passionate about AI-powered applications and automation
+- 🚀 Interested in full-stack development, SaaS products, and intelligent systems
+- 🤝 Open to internships, collaborations, and product-focused engineering opportunities
 
 ---
 
 ## 🧰 Tech Stack
 
-### 🎨 Frontend
+### Frontend
 <div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/vitejs/vitejs-original.svg" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/tailwindcss/tailwindcss-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/vitejs/vitejs-original.svg" height="40" alt="Vite"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="Tailwind CSS"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="Next.js"/>
 </div>
 
-- React 19 + TypeScript  
-- Vite (fast bundling ⚡)  
-- Tailwind CSS v4 (custom eco-theme 🌱)  
-- React Router  
-- React-Leaflet (maps)  
-- Axios + JWT authentication  
+- React, Next.js, TypeScript
+- Vite and modern frontend tooling
+- Tailwind CSS for responsive and polished UI
+- React Router and client-side state management
+- Axios, JWT-based authentication, map integrations
 
----
-
-### ⚙️ Backend
+### Backend & APIs
 <div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="Django"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="FastAPI"/>
 </div>
 
-- Django 4.2 LTS + Django REST Framework  
-- Python 3.11  
-- PostgreSQL (prod) / SQLite (dev)  
-- SimpleJWT authentication  
-- Gunicorn (WSGI server)  
+- Django, Django REST Framework, FastAPI
+- Python 3.x and backend architecture design
+- PostgreSQL and SQLite for development and production workflows
+- JWT authentication and secure API patterns
+- REST API development and business logic implementation
 
----
-
-### 🧠 Infrastructure & Services
+### AI, Automation & Infrastructure
 <div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="40" alt="Nginx"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" alt="Redis"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git"/>
 </div>
 
-- Docker (multi-service architecture 🐳)  
-- Nginx (reverse proxy)  
-- Redis (caching + rate limiting)  
-- Celery + Celery Beat (async tasks & scheduling)  
-- Cloudinary (image storage & CDN)  
+- AI integration and LLM-assisted workflows
+- n8n automation and business process orchestration
+- Docker, Nginx, Redis, Celery, and task scheduling
+- Cloud deployments on Render, Vercel, and similar platforms
+- GitHub workflows, version control, and deployment pipelines
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🌱 Mangrove Guardian AI  
-AI-powered platform for reporting mangrove damage and coordinating restoration.
+### 🌱 Mangrove Guardian AI
+AI-powered platform for reporting mangrove damage and coordinating restoration efforts.
+
+- Built to support environmental reporting and community-based action
+- Includes AI-assisted insights, geolocation, reporting workflows, and map-driven UX
+- Tech stack: React, TypeScript, Django, PostgreSQL, Docker, AI workflows
 
 🔗 Live: https://mangrove-guardian-ai.onrender.com  
-💻 Code: https://github.com/moatazbenma/mangrove-guardian-ai  
+💻 Code: https://github.com/moatazbenma/mangrove-guardian-ai
 
 ---
 
-### 🧠 StudyHub  
-AI-powered English learning platform  
+### 🧠 StudyHub
+AI-powered English learning platform built for productivity, practice, and guided learning.
 
-✨ Features:
-- AI chat with grammar correction  
-- Flashcards & task management  
-- Class booking system  
-- Dashboard analytics  
+- AI chat with grammar correction
+- Flashcards and task management
+- Class booking flow and student dashboard
+- Analytics-driven learning experience
 
 🔗 Live: https://studyhub-full.vercel.app/  
-💻 Code: https://github.com/moatazbenma/studyhub-full  
+💻 Code: https://github.com/moatazbenma/studyhub-full
 
 ---
 
-### 💰 Fundraising Platform  
-Full-stack donation system with interactive UI  
+### 🤖 WhatsApp Drive Assistant
+Automation project that connects WhatsApp commands with Google Drive operations using AI-powered summaries.
 
-✨ Features:
-- Progress tracking  
-- Reward tiers  
-- Animated UX  
-- Mobile-first design  
+- Natural-language file operations via WhatsApp
+- Drive integration for listing, moving, deleting, and summarizing files
+- Workflow automation using n8n and AI processing
+- Containerized deployment with Docker
 
-💻 Code: https://github.com/moatazbenma/fundraising_fullstack  
-
----
-
-### 🤖 WhatsApp Drive Assistant  
-Automation system with n8n + AI  
-
-✨ Features:
-- WhatsApp commands (LIST, MOVE, DELETE, SUMMARY)  
-- Google Drive integration  
-- AI-powered summaries  
-- Docker deployment  
-
-💻 Code: https://github.com/moatazbenma/Internship_task  
+💻 Code: https://github.com/moatazbenma/Internship_task
 
 ---
 
-### 🛒 Django E-commerce Store  
+### 💰 Fundraising Platform
+A full-stack fundraising application focused on donation campaigns and donor engagement.
 
-✨ Features:
-- Product browsing & filtering  
-- Cart system  
-- Authentication  
-- Responsive UI  
+- Progress tracking and reward tiers
+- Interactive UI and responsive experience
+- Suitable for campaign management and social impact projects
+
+💻 Code: https://github.com/moatazbenma/fundraising_fullstack
+
+---
+
+### 🛒 Django E-commerce Store
+A complete e-commerce solution built with Django.
+
+- Product browsing and filtering
+- Cart and authentication flows
+- Responsive storefront design
+- Practical backend + frontend integration
 
 🔗 Live: https://django-ecommerce-xjz8.onrender.com/  
-💻 Code: https://github.com/moatazbenma/django-commerce  
+💻 Code: https://github.com/moatazbenma/django-commerce
+
+---
+
+## ✨ What I Focus On
+
+- Building scalable full-stack web applications
+- Integrating AI into real user workflows
+- Creating clean and responsive interfaces
+- Designing reliable backend APIs and deployment-ready systems
+- Solving practical problems with automation and data-driven logic
 
 ---
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=moatazbenma&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=moatazbenma&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" />
 </div>
 
 ---
 
-## 📫 Contact Me
+## 📫 Contact
 
 📧 Email: moatazbanmansour@gmail.com  
-💼 LinkedIn: linkedin.com/in/el-mouataz-benmanssour  
+💼 LinkedIn: https://www.linkedin.com/in/el-mouataz-benmanssour/  
+🌐 GitHub: https://github.com/moatazbenma
 
 ---
 
-⭐ *Always building. Always learning.*
+⭐ Always building. Always learning.
